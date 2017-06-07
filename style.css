@@ -1,0 +1,24 @@
+.block {
+  background-color: black;
+  opacity: .75;
+  color: white;
+  padding: 8%;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10%;
+  font-size: 1.5em;
+  padding-bottom: 5%;
+}
+
+.spacer {
+  padding: 5%;
+}
+
+body {
+  background: no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
